@@ -8,6 +8,7 @@ Links from the video:
 - Display with enclosure: https://s.click.aliexpress.com/e/_DkQiwQf
 - Display without enclosure: https://s.click.aliexpress.com/e/_DEe0YJv
 - Display documentation: https://www.waveshare.com/wiki/ESP32-S3-LCD-1.28
+- Order PBC from here: https://www.pcbway.com/project/shareproject/Waveshare_ESP32_S3_LCD_1_28_PCB_for_converting_pins_1_27_2_54mm_d1cfb087.html
 - DFRobot Serial 6-Axis Accelerometer: https://www.dfrobot.com/product-2200.html
 - DFRobot Accelerometer Documentation: https://wiki.dfrobot.com/Serial_6_Axis_Accelerometer_SKU_SEN0386
 - DFRobot_WT61PC Library: https://github.com/DFRobot/DFRobot_WT61PC
